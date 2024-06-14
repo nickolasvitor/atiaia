@@ -5,10 +5,9 @@
 
 
 .btn {
-    background: #44D62C;
-    color: #071D49;
+    color: #4a4a4a;
     text-decoration: none;
-    border: 0px solid #4a4a4a;
+    border: 1px solid #4a4a4a;
     padding: 8px 75px 8px 75px;
 }
 .btn2 {
